@@ -3,6 +3,7 @@ body {
     width: 100vw;
       height: 100vh;
     position: relative;
+    background-color:black;
   }
   
   canvas {
@@ -22,7 +23,7 @@ body {
     line-height: 100vh;
     text-transform: uppercase;
     font-weight: lighter;
-    color: rgb(0, 0, 0);
+    color: white;
     text-align: center;
   }
  
